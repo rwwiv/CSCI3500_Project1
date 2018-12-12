@@ -1,0 +1,5 @@
+(states, (1,2))
+(alpha, (a))
+(trans-func, ((1,a,1), (2,a,2)))
+(start, 1)
+(final, (1))
